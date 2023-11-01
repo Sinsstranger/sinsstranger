@@ -1,18 +1,17 @@
 ### Hi there my name is Marat and I'm Fullstack Web Developer👋
 
-I am open to your offers, 5 years of experience, worked on SEO edits in techbox.one
-I did!
+I am open to your offers, 5 years of professional experience, worked on SEO edits in techbox.one, where I honed my skills in:
 - development and optimization of frontend and backend functionality of websites for customer requests;
 - revision, correction, refactoring, improving the quality of existing system components, including working with ready-made code;
-- conducting a code review;
+- Code Review and Collaboration;
 - interaction with the team.
 
-Key results:
+Key Achievements:
 - participated in the implementation of more than 100 projects for the development of websites, as well as technical, content and functional edits;
-- ensured the raising of sites according to Pagespeed indicators in the green zone;
+- elevated website performance by ensuring that they achieve 'green zone' Pagespeed indicators. This dedication to optimization translates into faster, more efficient websites that enhance user experiences;
 - proposed a number of initiatives to optimize the development process (not implemented due to lack of budget);
 
-## I use next technologies in my work:
+## My Tech Stack:
 
 ## Frontend
 
