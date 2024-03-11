@@ -9,7 +9,6 @@ I am open to your offers, 5 years of professional experience, worked on SEO edit
 Key Achievements:
 - participated in the implementation of more than 100 projects for the development of websites, as well as technical, content and functional edits;
 - elevated website performance by ensuring that they achieve 'green zone' Pagespeed indicators. This dedication to optimization translates into faster, more efficient websites that enhance user experiences;
-- proposed a number of initiatives to optimize the development process (not implemented due to lack of budget);
 
 ## My Tech Stack:
 
