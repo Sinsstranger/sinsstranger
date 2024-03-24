@@ -1,12 +1,19 @@
 ### Hi there my name is Marat and I'm Fullstack Web Developer👋
 
+My contacts:
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sinstranger)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/1055524023045459989/)
+
 I am open to your offers, 5 years of professional experience, worked on SEO edits in techbox.one, where I honed my skills in:
+
 - development and optimization of frontend and backend functionality of websites for customer requests;
 - revision, correction, refactoring, improving the quality of existing system components, including working with ready-made code;
 - Code Review and Collaboration;
 - interaction with the team.
 
 Key Achievements:
+
 - participated in the implementation of more than 100 projects for the development of websites, as well as technical, content and functional edits;
 - elevated website performance by ensuring that they achieve 'green zone' Pagespeed indicators. This dedication to optimization translates into faster, more efficient websites that enhance user experiences;
 
@@ -67,6 +74,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sinsstranger)] -->
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sinsstranger&theme=solarized_dark)
+
 <!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=daniilshat&theme=solarized_dark) -->
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sinsstranger&theme=solarized_dark)
