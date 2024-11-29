@@ -2,6 +2,13 @@
 **Frontend React Developer | 9+ years of experience in Web Development**
 
 ---
+## 📫 How to Reach Me:
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sinstranger)
+[![Email](https://img.shields.io/badge/Email-sinstranger@mail.ru-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sinstranger@mail.ru)
+[![Website](https://img.shields.io/badge/Website-sinstranger.webtm.ru-0A66C2?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://sinstranger.webtm.ru)
+
+---
 
 ## 🚀 About Me
 
@@ -91,13 +98,5 @@ I'm a Fullstack Web Developer specializing in **React.js**, **TypeScript**, and 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sinsstranger&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sinsstranger&theme=solarized_dark)
-
----
-
-## 📫 How to Reach Me:
-
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sinstranger)
-[![Email](https://img.shields.io/badge/Email-sinstranger@mail.ru-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sinstranger@mail.ru)
-[![Website](https://img.shields.io/badge/Website-sinstranger.webtm.ru-0A66C2?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://sinstranger.webtm.ru)
 
 🌟 **Let’s build something amazing together!**
